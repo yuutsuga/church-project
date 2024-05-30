@@ -1,0 +1,23 @@
+.actv {
+    display: grid;
+    place-content: center;
+    place-items: center;
+    margin: auto;
+    background-color: #2f2f46;
+    color: #989898;
+    padding: 6rem;
+    gap: 2rem;
+    scroll-margin-top: 10rem;
+}
+
+.actv-text {
+    font-size: 1.4rem;
+    color: #DADADA;
+}
+
+.actv-title:hover {
+    color: #f6f6f6;
+    text-shadow: 1px 1px 25px #f6f6f6;
+    transition-duration: 1s;
+    transition-timing-function: ease-out;
+}
