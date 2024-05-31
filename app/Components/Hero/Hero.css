@@ -11,12 +11,14 @@
     background-size: cover;
     background-position: center;
     color: #DADADA;
-    text-shadow: 2px 2px 2px black;
+    text-shadow: 3px 3px 3px black;
 }
 
 .hero-text {
     padding: 5px;
     font-size: 28px;
+    background-color: #272727;
+    opacity: 0.8;
 }
 
 .hero-h1 {
